@@ -1,5 +1,5 @@
 name: Winventory
 version: @version@
-main: com.nemosw.spigot.winventory.WinventoryPlugin
+main: com.github.noonmaru.winventory.WinventoryPlugin
 depend: [Tap]
 authors: [Nemo]
