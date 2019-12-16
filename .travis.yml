@@ -7,7 +7,6 @@ branches:
   only:
     - master
     - develop
-    - feature
 
 before_install:
   - chmod +x ./gradlew
